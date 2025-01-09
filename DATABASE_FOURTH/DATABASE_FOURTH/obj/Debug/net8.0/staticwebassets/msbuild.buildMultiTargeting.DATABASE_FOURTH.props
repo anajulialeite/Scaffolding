@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DATABASE_FOURTH.props" />
+</Project>
