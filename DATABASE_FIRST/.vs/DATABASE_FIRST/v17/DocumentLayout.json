@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|c:\\users\\master\\desktop\\database_first\\database_first\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|solutionrelative:database_first\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|c:\\users\\master\\desktop\\database_first\\database_first\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|solutionrelative:database_first\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|c:\\users\\master\\desktop\\database_first\\database_first\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|solutionrelative:database_first\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|c:\\users\\master\\desktop\\database_first\\database_first\\models\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|solutionrelative:database_first\\models\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|c:\\users\\master\\desktop\\database_first\\database_first\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|solutionrelative:database_first\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|c:\\users\\master\\desktop\\database_first\\database_first\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEA31E8-E9C5-4079-AEF9-F76C7346ACF7}|DATABASE_FIRST\\DATABASE_FIRST.csproj|solutionrelative:database_first\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DATABASE_FIRST\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\appsettings.Development.json",
+              "RelativeToolTip": "DATABASE_FIRST\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T23:22:15.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DATABASE_FIRST\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\Category.cs",
+              "RelativeToolTip": "DATABASE_FIRST\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:43:48.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "DATABASE_FIRST\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\Item.cs",
+              "RelativeToolTip": "DATABASE_FIRST\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:43:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\MenuContext.cs",
+              "RelativeDocumentMoniker": "DATABASE_FIRST\\Models\\MenuContext.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\MenuContext.cs",
+              "RelativeToolTip": "DATABASE_FIRST\\Models\\MenuContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:43:18.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DATABASE_FIRST\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\Order.cs",
+              "RelativeToolTip": "DATABASE_FIRST\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:42:38.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DATABASE_FIRST\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\Models\\User.cs",
+              "RelativeToolTip": "DATABASE_FIRST\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:42:04.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
