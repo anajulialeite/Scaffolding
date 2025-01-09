@@ -10,7 +10,7 @@
 
 Em resumo, é uma técnica que permite criar rapidamente a estrutura inicial de um sistema ou aplicação, economizando tempo e esforço dos desenvolvedores, especialmente nas fases iniciais do desenvolvimento.
 
-Este repositório vai conter dois scarffoldings, o primeiro foi um que fiz com ajuda do meu instrutor. O segundo, o que eu coloquei em prática sozinha depois de ter aprendido a fazer, depois de muitas tentativas, por isso os números não são sequenciais. Fiz um caderno de anotação com o passo a passo de um criar e vou atualizando até terminar o processo.
+Este repositório vai conter dois scarffoldings, o primeiro foi um que fiz com ajuda do meu instrutor. O segundo, o que eu coloquei em prática sozinha depois de ter aprendido a fazer, depois de muitas tentativas, por isso os números não são sequenciais. Fiz um caderno de anotação com o passo a passo de como criar, e vou atualizando até terminar o processo.
 
 Uma pequena ilustração do meu caderninho de anotações:
 
