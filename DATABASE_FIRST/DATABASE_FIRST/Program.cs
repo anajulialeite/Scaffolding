@@ -1,17 +1,27 @@
+using DATABASE_FIRST.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace DATABASE_FIRST
 {
     public class Program
     {
         public static void Main(string[] args)
         {
+
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            // pegar a conexão do appsettings
+            var ConnectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+            // conectar contexto do banco a nosa aplicação
+            builder.Services.AddDbContext<MenuContext>(options => options.UseSqlServer(ConnectionString));
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
+            
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");

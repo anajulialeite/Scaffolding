@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\DATABASE_FIRST.csproj": {}
+    "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FIRST\\DATABASE_FIRST\\DATABASE_FIRST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\DATABASE_FIRST.csproj": {
+    "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FIRST\\DATABASE_FIRST\\DATABASE_FIRST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\DATABASE_FIRST.csproj",
+        "projectUniqueName": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FIRST\\DATABASE_FIRST\\DATABASE_FIRST.csproj",
         "projectName": "DATABASE_FIRST",
-        "projectPath": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\DATABASE_FIRST.csproj",
+        "projectPath": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FIRST\\DATABASE_FIRST\\DATABASE_FIRST.csproj",
         "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\Desktop\\DATABASE_FIRST\\DATABASE_FIRST\\obj\\",
+        "outputPath": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FIRST\\DATABASE_FIRST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

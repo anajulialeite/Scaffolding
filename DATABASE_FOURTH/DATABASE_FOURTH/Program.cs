@@ -1,3 +1,6 @@
+using DATABASE_FOURTH.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace DATABASE_FOURTH
 {
     public class Program
@@ -6,6 +9,10 @@ namespace DATABASE_FOURTH
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // pegar a conexão do appsettings
+            var ConnectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+            // conectar contexto do banco a nosa aplicação
+            builder.Services.AddDbContext<MenuContext>(options => options.UseSqlServer(ConnectionString));
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 

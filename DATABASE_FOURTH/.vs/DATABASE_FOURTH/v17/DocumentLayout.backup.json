@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Master\\Desktop\\DATABASE_FOURTH\\",
+  "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|c:\\users\\master\\desktop\\database_fourth\\database_fourth\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\database_fourth\\database_fourth\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|solutionrelative:database_fourth\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\database_fourth\\database_fourth\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|solutionrelative:database_fourth\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\database_fourth\\database_fourth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|solutionrelative:database_fourth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\database_fourth\\database_fourth\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|solutionrelative:database_fourth\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\database_fourth\\database_fourth\\database_fourth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E4223FD-5D2A-4BF1-8CCE-CA334557B630}|DATABASE_FOURTH\\DATABASE_FOURTH.csproj|solutionrelative:database_fourth\\database_fourth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +39,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "DATABASE_FOURTH\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "DATABASE_FOURTH\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:10:00.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DATABASE_FOURTH\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DATABASE_FOURTH\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:07:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\Program.cs",
+              "RelativeDocumentMoniker": "DATABASE_FOURTH\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\Program.cs",
+              "RelativeToolTip": "DATABASE_FOURTH\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:02:32.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DATABASE_FOURTH.csproj",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj",
+              "RelativeDocumentMoniker": "DATABASE_FOURTH\\DATABASE_FOURTH.csproj",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj",
+              "RelativeToolTip": "DATABASE_FOURTH\\DATABASE_FOURTH.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T22:45:33.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\DATABASE_FOURTH\\DATABASE_FOURTH\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\appsettings.Development.json",
               "RelativeDocumentMoniker": "DATABASE_FOURTH\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Master\\Desktop\\DATABASE_FOURTH\\DATABASE_FOURTH\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\appsettings.Development.json",
               "RelativeToolTip": "DATABASE_FOURTH\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-08T22:56:44.193Z",
               "EditorCaption": ""

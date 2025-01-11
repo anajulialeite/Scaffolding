@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Master\\Desktop\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj": {}
+    "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Master\\Desktop\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj": {
+    "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\Desktop\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj",
+        "projectUniqueName": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj",
         "projectName": "DATABASE_FOURTH",
-        "projectPath": "C:\\Users\\Master\\Desktop\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj",
+        "projectPath": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\DATABASE_FOURTH.csproj",
         "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\Desktop\\DATABASE_FOURTH\\DATABASE_FOURTH\\obj\\",
+        "outputPath": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FOURTH\\DATABASE_FOURTH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
