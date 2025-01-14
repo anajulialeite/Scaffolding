@@ -66,11 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -82,8 +86,7 @@
               "RelativeToolTip": "DATABASE_FIRST\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-10T23:44:43.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T23:44:43.022Z"
             },
             {
               "$type": "Document",
@@ -153,7 +156,7 @@
               "RelativeDocumentMoniker": "DATABASE_FIRST\\Program.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\DATABASE_FIRST\\DATABASE_FIRST\\Program.cs",
               "RelativeToolTip": "DATABASE_FIRST\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T22:59:59.07Z",
               "EditorCaption": ""
