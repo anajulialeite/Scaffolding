@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\MODEL_FIRST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\model_first\\model_first\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|solutionrelative:model_first\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\model_first\\model_first\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|solutionrelative:model_first\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\model_first\\model_first\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|solutionrelative:model_first\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\model_first\\model_first\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|solutionrelative:model_first\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\model_first\\model_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|solutionrelative:model_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\model_first\\model_first\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|solutionrelative:model_first\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\model_first\\model_first\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|solutionrelative:model_first\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\model_first\\model_first\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|solutionrelative:model_first\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AB49D93-44D0-44A4-B0CD-7DF54AEA9887}|MODEL_FIRST\\MODEL_FIRST.csproj|c:\\users\\master\\documents\\estudos\\scaffolding\\model_first\\model_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,15 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\MODEL_FIRST\\MODEL_FIRST\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "MODEL_FIRST\\Controllers\\OrdersController.cs",
@@ -54,12 +58,11 @@
               "RelativeToolTip": "MODEL_FIRST\\Controllers\\OrdersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T02:02:29.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T02:02:29.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\MODEL_FIRST\\MODEL_FIRST\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "MODEL_FIRST\\Controllers\\UsersController.cs",
@@ -67,8 +70,7 @@
               "RelativeToolTip": "MODEL_FIRST\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T02:00:51.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T02:00:51.978Z"
             },
             {
               "$type": "Document",
@@ -80,25 +82,19 @@
               "RelativeToolTip": "MODEL_FIRST\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T01:21:50.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T01:21:50.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\MODEL_FIRST\\MODEL_FIRST\\appsettings.json",
               "RelativeDocumentMoniker": "MODEL_FIRST\\appsettings.json",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\MODEL_FIRST\\MODEL_FIRST\\appsettings.json",
               "RelativeToolTip": "MODEL_FIRST\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-11T01:16:03.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-01-11T01:16:03.178Z"
             },
             {
               "$type": "Document",
@@ -110,31 +106,30 @@
               "RelativeToolTip": "MODEL_FIRST\\Data\\DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T00:59:46.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T00:59:46.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Orders.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\MODEL_FIRST\\MODEL_FIRST\\Models\\Orders.cs",
               "RelativeDocumentMoniker": "MODEL_FIRST\\Models\\Orders.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\MODEL_FIRST\\MODEL_FIRST\\Models\\Orders.cs",
               "RelativeToolTip": "MODEL_FIRST\\Models\\Orders.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T00:29:24.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\MODEL_FIRST\\MODEL_FIRST\\Models\\Users.cs",
               "RelativeDocumentMoniker": "MODEL_FIRST\\Models\\Users.cs",
               "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\Scaffolding\\MODEL_FIRST\\MODEL_FIRST\\Models\\Users.cs",
               "RelativeToolTip": "MODEL_FIRST\\Models\\Users.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T00:24:06.086Z",
               "EditorCaption": ""
