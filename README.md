@@ -12,6 +12,6 @@ Em resumo, é uma técnica que permite criar rapidamente a estrutura inicial de 
 
 Este repositório vai conter dois scarffoldings, o primeiro foi um que fiz com ajuda do meu instrutor. O segundo, o que eu coloquei em prática sozinha depois de ter aprendido a fazer, depois de muitas tentativas, por isso os números não são sequenciais. Fiz um caderno de anotação com o passo a passo de como criar, e vou atualizando até terminar o processo.
 
-# License 
+## License 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
